@@ -1,0 +1,31 @@
+
+docker container pull success fully code 
+
+yum update -y
+    2  docker update -y
+    3  apt-get update -y
+    4  apt-get install git  -y
+    5  mkdir git-hub
+    6  cd git-hub/
+    7  touch index
+    8  vim index
+    9  ls
+   10   vim index
+   11  apt-get update -y
+   12  vim index
+   13  apt-get install vim -y
+   14  ls
+   15  vim index
+   16  git init
+   17  git status
+   18  git add.
+   19  git add .
+   20  git status
+   21  git commit --global user.name "aashish"
+   22  git config --global user.name "aashish"
+   23  git config --global user.email "aashish@singh.com"
+   24  git comiit -m "done by aashish"
+   25  git commit -m "done by aashish"
+   26  git status
+   27  git log
+   28  git remote add origin
