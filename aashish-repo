@@ -29,3 +29,5 @@ yum update -y
    26  git status
    27  git log
    28  git remote add origin
+
+
